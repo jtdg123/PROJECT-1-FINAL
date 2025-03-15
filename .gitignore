@@ -1,0 +1,7 @@
+scheduler
+*.o
+*.exe
+*.out
+*.log
+*.swp
+.DS_Store
