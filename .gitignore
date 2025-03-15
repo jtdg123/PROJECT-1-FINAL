@@ -1,7 +1,7 @@
 scheduler
 *.o
 *.exe
-*.out
+*.out 
 *.log
 *.swp
 .DS_Store
